@@ -4,7 +4,7 @@ Please don't hesitate to contribute to this repo!
 
 # Bug Bounty Beginner's Roadmap
 
-Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and also a part time content creator. I am creating this repository for everyone to contribute as to guide the young and enthusiastic minds for starting their career in bug bounties. More content will be added regularly. Keep following. So let's get started!
+
 
 ***NOTE:*** The bug bounty landscape has changed since the last few years. The issues we used to find easily an year ago would not be easy now. Automation is being used rigorously and most of the "*low hanging fruits*" are being duplicated if you are out of luck. If you want to start doing bug bounty, you will have to be determined to be consistent and focused, as the competition is very high.
 
